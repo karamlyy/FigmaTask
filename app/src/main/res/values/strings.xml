@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zireddin Application</string>
+
+    <string name="checkbox">I read the <u>terms of use.</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="palmistry_title">Palmistry</string>
+    <string name="horoscope_title">Horoscope</string>
+    <string name="mail_title">Mail</string>
+
+</resources>
