@@ -21,13 +21,16 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="35dp"
-        android:layout_marginTop="11dp"
-        android:text="TextView"
-        app:layout_constraintStart_toEndOf="@+id/imageView7"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="4dp"
+        android:gravity="top"
+        android:lineSpacingExtra="-3sp"
+        android:text="Aleyna"
+        android:textAppearance="@style/aleyna"
+        app:layout_constraintStart_toEndOf="@id/imageView7"
         app:layout_constraintTop_toTopOf="parent" />
-
-
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

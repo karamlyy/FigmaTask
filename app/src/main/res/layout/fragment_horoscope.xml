@@ -5,10 +5,13 @@
     android:layout_height="match_parent"
     tools:context=".core.bottom_navigation_fragments.HoroscopeFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+
+    <include
+        android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Horoscope" />
+        layout="@layout/tool_bar"></include>
+    <!-- TODO: Update blank fragment layout -->
+
 
 </FrameLayout>
